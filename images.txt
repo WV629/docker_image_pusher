@@ -1,2 +1,3 @@
 --platform=linux/arm64 python:3.11.11-slim
 python:3.11.11-slim
+apache/kafka:3.9.0
