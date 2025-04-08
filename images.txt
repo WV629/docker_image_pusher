@@ -29,3 +29,5 @@ opensearchproject/opensearch-dashboards:latest
 langgenius/dify-api:1.0.1
 redis:6-alpine
 quay.io/coreos/etcd:v3.5.5
+
+xprobe/xinference:latest-cpu
